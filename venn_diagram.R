@@ -1,4 +1,4 @@
-library("VennDiagramm")
+library("VennDiagram")
 library("eulerr")
 
 venn_data <- read.csv("venn_data4.csv",
